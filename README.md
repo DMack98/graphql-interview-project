@@ -21,6 +21,8 @@ Additionally you can query for information on departments and get the following:
 ## Resources Used
 
 <https://blog.logrocket.com/build-graphql-app-node-js-typescript-graphql-request/>
+<https://www.apollographql.com/tutorials/lift-off-part4/05-resolving-a-mutation-successfully>
+<https://www.apollographql.com/docs/>
 
 ## How to install
 
